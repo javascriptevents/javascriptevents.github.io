@@ -25,12 +25,22 @@ time, mark, audio, video {
 }
 
 .header-background {
-  background-color: gold;
+  background-color: #3388ff;
 }
 
 .center-content {
   max-width: 1200px;
   margin: 0 auto;
+}
+
+.title-section {
+	display: flex;
+	align-items: center;
+}
+
+.title {
+	font-size: 3.25rem;
+	margin-left: 25px;
 }
 
 .events {
